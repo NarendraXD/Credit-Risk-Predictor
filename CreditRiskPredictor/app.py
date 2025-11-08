@@ -11,7 +11,7 @@ scaler = pickle.load(open("scaler.pkl", "rb"))
 
 st.set_page_config(page_title="Credit Risk Predictor", layout="wide")
 
-st.title("💳 Ultra Credit Risk Predictor")
+st.title("💳 Credit Risk Predictor")
 st.write("Upload your data or enter details manually to predict credit risk.")
 
 # -------------------------
