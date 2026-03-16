@@ -190,7 +190,7 @@ Interested in **Machine Learning, Data Analytics, and Artificial Intelligence**
 https://github.com/NarendraXD
 
 🔗 LinkedIn
-(Add your LinkedIn profile link)
+www.linkedin.com/in/narendra-ahirwar23
 
 ---
 
